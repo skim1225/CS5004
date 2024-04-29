@@ -1,0 +1,2 @@
+My favorite basketball player is [[first_name]] [[last_name]], he plays for [[company_name]].
+The arena is located in [[address]].
